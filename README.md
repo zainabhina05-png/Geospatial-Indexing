@@ -27,7 +27,7 @@ Trees Used for Associative Searching"* — the original k-d tree paper.
 
 ## Plan
 
-- [ ] Day 1-2: Read paper, fill in summary above
+- [-] Day 1-2: Read paper, fill in summary above
 - [ ] Day 3-5: Implement a minimal k-d tree in TypeScript (`src/kdtree.ts`), reuse Haversine for actual distance calc at leaf level
 - [ ] Day 5-6: Benchmark k-d tree vs brute-force on synthetic venue data (`src/benchmark.ts`)
 - [ ] Day 6-7: Write up results below + short dev.to post
